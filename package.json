@@ -9,6 +9,10 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@nuxt/devtools": "^1.0.0",
     "nuxt": "^3.7.4"
+  },
+  "dependencies": {
+    "@nuxtjs/algolia": "^1.10.1"
   }
 }
